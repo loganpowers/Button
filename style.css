@@ -1,0 +1,17 @@
+.buttons {
+  margin: auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  border: 5px double blue;
+  border-radius: 5px;
+  width: fit-content;
+}
+
+button{
+  color: green;
+}
+
+html{
+  background-color:Black;
+}
